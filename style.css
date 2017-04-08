@@ -12,3 +12,20 @@ body {
 	top: 0px;
 	left: 0px;
 }
+
+ul {
+	margin: 0px;
+	padding: 0px;
+}
+ul li {
+	list-style: none;
+}
+
+ul li a {
+	background: #0f0f0f;
+	color: #FFFFFF;
+	border-bottom: 1px solid #000000;
+	display: block;
+	width: 180px;
+	padding: 10px;
+}
