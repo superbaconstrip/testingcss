@@ -2,3 +2,10 @@ body {
 	margin: 0px;
 	padding: 0px;
 }
+
+sidebar {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	background-color: #000000;
+}
