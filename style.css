@@ -11,7 +11,7 @@ body {
 	position: absolute;
 	top: 0px;
 	left: -200px;
-	font-family: "Helvetica Neue" Helvetica Arial;
+	font-family: "Helvetica Neue" Helvetica Arial sans-serif;
 }
 
 #sidebar.visible {
