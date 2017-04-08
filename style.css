@@ -12,10 +12,12 @@ body {
 	top: 0px;
 	left: -200px;
 	font-family: "Helvetica Neue" Helvetica Arial sans-serif;
+	transition: 3s linear;
 }
 
 #sidebar.visible {
 	left: 0px;
+	transition: 3s linear;
 }
 ul {
 	margin: 0px;
