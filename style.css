@@ -41,6 +41,8 @@ ul li a {
 	vertical-align: middle;
 	width: 20px;
 	height: 15px;
+	cursor: pointer;
+	margin: 20px;
 }
 
 #sidebaer-btn span {
@@ -48,4 +50,11 @@ ul li a {
 	background: #0000000;
 	margin-bottom: 5px;
 	display: block;
+}
+#sidebaer-btn span:nth-child(2) {
+	width: 75%;
+}
+
+#sidebar-btn span:nth-child(3) {
+	width: 50%;
 }
