@@ -35,3 +35,17 @@ ul li a {
 	width: 180px;
 	padding: 10px;
 }
+
+#sidebar-btn {
+	display: inline-block;
+	vertical-align: middle;
+	width: 20px;
+	height: 15px;
+}
+
+#sidebaer-btn span {
+	height: 1px;
+	background: #0000000;
+	margin-bottom: 5px;
+	display: block;
+}
