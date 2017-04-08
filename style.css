@@ -3,12 +3,12 @@ body {
 	padding: 0px;
 }
 
-sidebar {
+#sidebar {
 	position: absolute;
 	top: 0px;
 	left: 0px;
 	background-color: #000000;
 }
-sidebar ul {
+#sidebar ul {
 	text-decoration: none;
 }
