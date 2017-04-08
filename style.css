@@ -48,13 +48,13 @@ ul li a {
 	right: -60px;
 }
 
-#sidebaer-btn span {
+#sidebar-btn span {
 	height: 1px;
 	background: #000000;
 	margin-bottom: 5px;
 	display: block;
 }
-#sidebaer-btn span:nth-child(2) {
+#sidebar-btn span:nth-child(2) {
 	width: 75%;
 }
 
