@@ -9,3 +9,6 @@ sidebar {
 	left: 0px;
 	background-color: #000000;
 }
+sidebar ul {
+	text-decoration: none;
+}
